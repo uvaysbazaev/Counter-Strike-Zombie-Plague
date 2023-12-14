@@ -18,7 +18,7 @@ Ebot
 Changes to the config:
 - Random skill enabled
 - Min skill: 55 & Max skill: 75
-- Name tag disabled
+- Disabled name tags
 - Disabled "ebot_analyze_create_camp_waypoints"
 - Disabled "ebot_zm_aim_boost"
 
