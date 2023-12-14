@@ -9,17 +9,13 @@ Zombie Plague
 -
 Sub-Plugins:
 - Aim Info (edited: Shows enemy info and only name and hp)
-- Extra item Human Armor
-- Extra item Multijump
+- Extra-Item: Anti-Infection Armor 
+- Extra-Item: Multijump
 - Parachute
-
-Ebot
--
-Has good waypoints for the map zm_gbox
 
 Maps
 -
-- zm_gbox
+- zm_gbox (good waypoints)
 - zm_cross
 - bio_gbox_new
 
