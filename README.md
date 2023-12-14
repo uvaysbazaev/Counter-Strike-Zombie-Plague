@@ -24,7 +24,7 @@ Changes to the config:
 
 Maps
 -
-- zm_gbox (good waypoints)
+- zm_gbox (with polished waypoints)
 - zm_cross
 - bio_gbox_new
 
