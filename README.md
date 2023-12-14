@@ -2,7 +2,7 @@ AMXX 1.8.2
 -
 Zombie Plague 5.0.5
 -
-ZP Subplugins:
+Sub-Plugins:
 - Aim Info (edited: shows now enemy info to and shows only name and hp)
 - Extra item Human Armor
 - Extra item Multijump
