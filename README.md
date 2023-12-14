@@ -32,3 +32,14 @@ Instructions
 -
 Download "CS ZOMBIE PACK.zip" and extract cstrike folder into your game's main directory.
 
+Instructions unclear?
+1. Download "CS ZOMBIE PACK.zip"
+2. Extract the downloaded "CS ZOMBIE PACK.zip"
+3. Open the extracted folder "CS ZOMBIE PACK"
+4. You will see "cstrike" inside it, copy it
+5. Go to your game's directory/location folder
+6. Paste the copied "cstrike" into the game's directory
+7. Press replace all files if you will asked when pasting cstrike
+
+Finnito! Enjoy Zombie Plague
+
