@@ -28,3 +28,7 @@ Maps
 - zm_cross
 - bio_gbox_new
 
+Instructions
+-
+Download "CS ZOMBIE PACK.zip" and extract cstrike folder into your game's main directory.
+
