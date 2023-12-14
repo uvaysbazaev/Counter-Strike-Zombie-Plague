@@ -13,6 +13,15 @@ Sub-Plugins:
 - Extra-Item: Multijump
 - Parachute
 
+Ebot
+-
+Changes to the config:
+- Random skill enabled
+- Min skill: 55 & Max skill 75
+- Disabled name tags
+- Cvar "ebot_analyze_create_camp_waypoints" set to 0
+- Cvar "ebot_zm_aim_boost" set to 0
+
 Maps
 -
 - zm_gbox (good waypoints)
