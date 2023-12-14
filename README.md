@@ -19,7 +19,7 @@ Has good waypoints for the map zm_gbox
 
 Maps
 -
-- zm_gbox (With good waypoints)
+- zm_gbox
 - zm_cross
 - bio_gbox_new
 
