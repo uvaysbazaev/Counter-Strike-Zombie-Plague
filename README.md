@@ -8,7 +8,7 @@ FEATURES
 Zombie Plague
 -
 Sub-Plugins:
-- Aim Info (edited: Shows both- zombie and human info and only name and hp)
+- Aim Info (edited: Now shows name and hp of both teams)
 - Extra-Item: Anti-Infection Armor 
 - Extra-Item: Multijump
 - Parachute
