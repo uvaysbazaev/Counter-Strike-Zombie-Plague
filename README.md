@@ -1,6 +1,11 @@
-AMXX 1.8.2
+CONTENT
 -
-Zombie Plague 5.0.5
+- AMXX 1.8.2
+- Zombie Plague 5.0.5
+- Ebot Legacy 1.07
+- Metamod-R 1.21p38
+
+Zombie Plague
 -
 Sub-Plugins:
 - Aim Info (edited: Shows enemy info and only name and hp)
@@ -8,15 +13,12 @@ Sub-Plugins:
 - Extra item Multijump
 - Parachute
 
-Ebot Legacy 1.07
+Ebot
 -
 Has good waypoints for the map zm_gbox
 
+Maps
 -
-
-Metamod-R 1.21p38
-
-Added Maps:
 - zm_gbox (With good waypoints)
 - zm_cross
 - bio_gbox_new
