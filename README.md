@@ -1,4 +1,4 @@
-CONTENT
+FEATURES
 -
 - AMXX 1.8.2
 - Zombie Plague 5.0.5
