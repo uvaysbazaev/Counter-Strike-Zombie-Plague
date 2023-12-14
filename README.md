@@ -8,7 +8,7 @@ FEATURES
 Zombie Plague
 -
 Sub-Plugins:
-- Aim Info (edited: Shows now information of both teams and only name and hp)
+- Aim Info (edited to display information for both teams, showing only name and HP)
 - Extra-Item: Anti-Infection Armor 
 - Extra-Item: Multijump
 - Parachute
@@ -16,11 +16,9 @@ Sub-Plugins:
 E-BOT
 -
 Changes to the config:
-- Random skill enabled
-- Min skill: 55 & Max skill: 75
-- Disabled name tags
-- Disabled "ebot_analyze_create_camp_waypoints"
-- Disabled "ebot_zm_aim_boost"
+- Random skill enabled with minimum skill of 55 and maximum skill of 75
+- Name tags disabled
+- Cvars "ebot_analyze_create_camp_waypoints" and "ebot_zm_aim_boost" disabled
 
 Maps
 -
