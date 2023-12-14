@@ -41,5 +41,5 @@ Instructions unclear?
 6. Paste the "cstrike" folder that you copied into the game's directory
 7. Press replace all files if you will be asked from explorer
 
-Finito, enjoy Zombie Plague!
+Finito, enjoy the game!
 
