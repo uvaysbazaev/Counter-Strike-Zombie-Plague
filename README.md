@@ -10,9 +10,11 @@ Sub-Plugins:
 
 Ebot Legacy 1.07
 -
-Metamod-R 1.21p38
+Has good waypoints for the map zm_gbox
+
 -
 
+Metamod-R 1.21p38
 
 Added Maps:
 - zm_gbox (With good waypoints)
