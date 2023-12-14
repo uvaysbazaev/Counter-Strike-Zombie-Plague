@@ -39,7 +39,7 @@ Instructions unclear?
 4. You will see "cstrike" inside it. Copy it!
 5. Go to your game's directory/location folder
 6. Paste the "cstrike" folder that you copied into the game's directory
-7. Press replace all files if you will asked when pasting cstrike
+7. Press replace all files if you will be asked from explorer
 
 Finnito! Enjoy Zombie Plague
 
